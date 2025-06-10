@@ -26,4 +26,5 @@ This project presents a **retail sales analysis** dashboard created using Micros
 
 
 
-<img width="530" alt="retail dashboard 1" src="https://github.com/user-attachments/assets/d8d21053-6ec1-4389-997d-9a3ac3f1f7e0" />
+
+<img width="402" alt="retail dashboard2" src="https://github.com/user-attachments/assets/f1c29b76-3e30-476e-be78-ece4e90bbe39" />
